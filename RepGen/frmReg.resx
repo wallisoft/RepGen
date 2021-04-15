@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="rtbEULA.Text" xml:space="preserve">
+    <value>This License Agreement (this "Agreement") is made between Generated Psychological Solutions, LLC ("Licensor") and "Licensee” or purchaser of software.
+In consideration of the mutual promises contained herein and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+I. Content of Licensed Materials; Grant of License
+
+The materials that are the subject of this Agreement shall consist of [electronic information published or otherwise made available by Licensor] (hereinafter referred to as the "Licensed Materials"). 
+Licensee and its Authorized Users acknowledge that the copyright and title to the Licensed Materials and any trademarks or service marks relating thereto remain with Licensor and/or its suppliers. Neither Licensee nor its Authorized Users shall have right, title or interest in the Licensed Materials except as expressly set forth in this Agreement. 
+Licensor hereby grants to Licensee non-exclusive use of the Licensed Materials and the right to provide the Licensed Materials to Authorized Users in accordance with this Agreement.
+II. Delivery/Access of Licensed Materials to Licensee
+
+Licensor will provide the Licensed Materials to the Licensee by either:
+1.	Physical Media. Copies of the Licensed Materials will be provided to the Licensee on physical media (e.g., Digital Video Disk, CD-ROM, digital tape, jumpdrive) for use on Licensee’s workstations.
+2.	File Transfer. Copies of the Licensed Materials will be provided to the Licensee through 	electronic transfer (by means of File Transfer Protocol or otherwise).
+
+III. Fees
+Licensee shall make payment to Licensor for use of the Licensed Materials pursuant to the terms set forth in previously provided order forms or website information. 
+
+IV. Authorized Use of Licensed Materials
+Authorized Users. "Authorized Users" are:
+
+Authorized Uses. Licensee and Authorized Users may make all use of the Licensed Materials as is consistent with the Fair Use Provisions of United States and international law. Nothing in this Agreement is intended to limit in any way whatsoever Licensee's or any Authorized User's rights under the Fair Use provisions of United States or international law to use the Licensed Materials. 
+The Licensed Materials may be used for purposes of research, education or other non-commercial use as follows:
+Display. Licensee and Authorized Users shall have the right to electronically display the Licensed Materials.
+ 
+Archival/Backup Copy. Upon request of Licensee, Licensee may receive from Licensor and/or create one (1) copy of the entire set of Licensed Materials to be maintained as a backup or archival copy during the term of this Agreement or as required to exercise Licensee’s rights under Section XIII, "Perpetual License", of this Agreement.
+Course Packs. Licensee and Authorized Users may use a reasonable portion of the Licensed Materials in the preparation of Course Packs or other educational materials.
+Electronic Reserve. Licensee and Authorized Users may use a reasonable portion of the Licensed Materials for use in connection with specific courses of instruction offered by Licensee and/or its parent institution. 
+Databases. If the Licensed Materials are a database, compilation, or collection of information, Authorized Users shall be permitted to extract or use information contained in the database for educational, scientific, or research purposes, including extraction and manipulation of information for the purpose of illustration, explanation, example, comment, criticism, teaching, research, or analysis.
+ 
+ Indices. Licensee may use the Licensed Materials in connection with the preparation of or access to integrated indices to the Licensed Materials, including author, article, abstract and keyword indices.
+Scholarly Sharing. Authorized Users may transmit to a third party colleague in hard copy or electronically, minimal, insubstantial amounts of the Licensed Materials for personal use or scholarly, educational, or scientific research or professional use but in no case for re-sale. In addition, Authorized Users have the right to use, with appropriate credit, figures, tables and brief excerpts from the Licensed Materials in the Authorized User’s own scientific, scholarly and educational works.
+Interlibrary Loan. Licensee may fulfill requests from other institutions, a practice commonly called Interlibrary Loan. Licensee agrees to fulfill such requests in compliance with Section 108 of the United States Copyright Law (17 USC §108, "Limitations on exclusive rights: Reproduction by libraries and archives") and clause 3 of the Guidelines for the Proviso of Subsection 108(g)(2) prepared by the National Commission on New Technological Uses of Copyrighted Works.
+V. Access by and Authentication of Authorized Users
+
+Licensee and its Authorized Users shall be granted access to the Licensed Materials pursuant to the following:
+ 
+Passwords. Authorized Users shall be identified and authenticated by the use of usernames and passwords assigned by Licensee. Licensee shall be responsible for issuing and terminating passwords, verifying the status of Authorized Users, providing lists of valid passwords to Licensor and updating such lists on a regular basis.
+ 
+VI. Specific Restrictions on Use of Licensed Materials
+
+Unauthorized Use. Licensee shall not knowingly permit anyone other than Authorized Users to use the Licensed Materials.
+Modification of Licensed Materials. Licensee shall not modify or create a derivative work of the Licensed Materials without the prior written permission of Licensor. 
+Removal of Copyright Notice. Licensee may not remove, obscure or modify any copyright or other notices included in the Licensed Materials.
+Commercial Purposes. Other than as specifically permitted in this Agreement, Licensee may not use the Licensed Materials for commercial purposes, including but not limited to the sale of the Licensed Materials or bulk reproduction or distribution of the Licensed Materials in any form.
+VII. Licensor Performance Obligations
+
+Availability of Licensed Materials. Within 30 days, Licensor shall make the Licensed Materials available to Licensee and Authorized Users.
+Documentation. Licensor will provide and maintain help files and other appropriate user documentation.
+Support. Licensor will offer activation or installation support, including assisting with the implementation of any Licensor software. Licensor will  not provide ongoing support beyond basic set-up and installation.   
+ 
+   
+VIII. Licensee Performance Obligations
+
+Provision of Notice of License Terms to Authorized Users. Licensee shall make reasonable efforts to provide Authorized Users with appropriate notice of the terms and conditions under which access to the Licensed Materials is granted under this Agreement including, in particular, any limitations on access or use of the Licensed Materials as set forth in this Agreement.
+Protection from Unauthorized Use. Licensee shall use reasonable efforts to protect the Licensed Materials from any use that is not permitted under this Agreement. In the event of any unauthorized use of the Licensed Materials by an Authorized User, (a) Licensor may terminate such Authorized User's access to the Licensed Materials, (b) Licensor may terminate the access of the Internet Protocol ("IP") address(es) from which such unauthorized use occurred, and/or (c) Licensee shall terminate such Authorized User's access to the Licensed Materials upon Licensor's request. Licensor shall take none of the steps described in this paragraph without first providing reasonable notice to Licensee (in no event less than 14 days) and cooperating with the Licensee to avoid recurrence of any unauthorized use.
+Maintaining Confidentiality of Access Passwords. Where access to the Licensed Materials is to be controlled by use of passwords, Licensee shall issue log-on identification numbers and passwords to each Authorized User and use reasonable efforts to ensure that Authorized Users do not divulge their numbers and passwords to any third party. Licensee shall also maintain the confidentiality of any institutional passwords provided by Licensor. 
+IX. Mutual Performance Obligations
+
+Confidentiality of User Data. Licensor and Licensee agree to maintain the confidentiality of any data relating to the usage of the Licensed Materials by Licensee and its Authorized Users. Such data may be used solely for purposes directly related to the Licensed Materials and may only be provided to third parties in aggregate form. Raw usage data, including but not limited to information relating to the identity of specific users and/or uses, shall not be provided to any third party. 
+Implementation of Developing Security Protocols. Licensee and Licensor shall cooperate in the implementation of security and control protocols and procedures as they are developed during the term of this Agreement.
+X. Terms
+This license is personal to you and you agree not to assign your rights herein and that any unauthorized assignment shall be null and void. This license shall be governed by and construed in accordance with the laws of the State of Missouri.
+
+XII. Early Termination
+
+In the event that either party believes that the other materially has breached any obligations under this Agreement, or if Licensor believes that Licensee has exceeded the scope of the License, such party shall so notify the breaching party in writing. The breaching party shall have 30 days from the receipt of notice to cure the alleged breach and to notify the non-breaching party in writing that cure has been effected.  If the breach is not cured within the 30 days, the non-breaching party shall have the right to terminate the Agreement without further notice.
+Upon Termination of this Agreement for cause online access to the Licensed Materials by Licensee and Authorized Users shall be terminated. Authorized copies of Licensed Materials may be retained by Licensee or Authorized Users and used subject to the terms of this Agreement. 
+ 
+
+
+XIII. Perpetual License
+
+Except for termination for cause, Licensor hereby grants to Licensee a nonexclusive, royalty-free, perpetual license to use any Licensed Materials that were accessible during the term of this Agreement. Such use shall be in accordance with the provisions of this Agreement, which provisions shall survive any termination of this Agreement. The means by which Licensee shall have access to such Licensed Materials shall be in a manner and form substantially equivalent to the means by which access is provided under this Agreement.
+XIV. Warranties
+Subject to the Limitations set forth elsewhere in this Agreement:
+
+Licensor warrants that it has the right to license the rights granted under this Agreement to use Licensed Materials, that it has obtained any and all necessary permissions from third parties to license the Licensed Materials, and that use of the Licensed Materials by Authorized Users in accordance with the terms of this Agreement shall not infringe the copyright of any third party. The Licensor shall indemnify and hold Licensee and Authorized Users harmless for any losses, claims, damages, awards, penalties, or injuries incurred, including reasonable attorney's fees, which arise from any claim by any third party of an alleged infringement of copyright or any other property right arising out of the use of the Licensed Materials by the Licensee or any Authorized User in accordance with the terms of this Agreement. This indemnity shall survive the termination of this agreement. NO LIMITATION OF LIABILITY SET FORTH ELSEWHERE IN THIS AGREEMENT IS APPLICABLE TO THIS INDEMNIFICATION.
+Licensor warrants that the physical medium, if any, on which the Licensed Materials is provided to Licensee will be free from defects for a period of 15 days from delivery.
+XV. Limitations on Warranties
+
+</value>
+  </data>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>
